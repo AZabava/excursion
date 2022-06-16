@@ -8,19 +8,16 @@ body {
 }
 
 /*Headers*/
-
 .header--main { /*.component-name = main*/
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
-
 .header--secondary {
     font-weight: 300px;
     font-size: 42px;
     color:white; 
 }
-
 .header--sub-header {
     font-size: 21px;
     color:grey; 
