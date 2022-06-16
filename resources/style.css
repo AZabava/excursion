@@ -6,11 +6,27 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+/*Headers*/
+
 .header--main { /*.component-name = main*/
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
+
+.header--secondary {
+    font-weight: 300px;
+    font-size: 42 px;
+    color:white; 
+
+    .header--subheader {
+        font-weight: 300px;
+        font-size: 21 px;
+        color:grey; 
+}
+
+/*Links*/
 
 .link--cta { /*.component--name =cta stands = call for action*/
     color:aquamarine;
